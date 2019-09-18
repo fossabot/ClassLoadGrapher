@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmenzew%2FClassLoadGrapher.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmenzew%2FClassLoadGrapher?ref=badge_shield)
+
 ================
 ClassloadGrapher
 ================
@@ -25,3 +27,7 @@ Sample output:
 
 
 .. image:: https://github.com/menzew/ClassLoadGrapher/blob/master/Sample-Screenshot.png
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmenzew%2FClassLoadGrapher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmenzew%2FClassLoadGrapher?ref=badge_large)
